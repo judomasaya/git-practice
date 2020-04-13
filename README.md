@@ -2,3 +2,4 @@ nagano
 
 
 masaya
+hayama
