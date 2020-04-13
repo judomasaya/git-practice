@@ -1,3 +1,6 @@
+
+masaya
+hayama
 nagano
 
 nagano2
