@@ -6,6 +6,11 @@
 |email|string|null:false, unique:true|
 |password|string|null:false, unique:true|
 
+
+
+
+
+俺だ俺だお！！
 ## Assosiation
 - has_many :comments
 - has_many :items
