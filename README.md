@@ -11,6 +11,7 @@
 
 
 俺だ俺だお！！
+１１１１１１
 ## Assosiation
 - has_many :comments
 - has_many :items
